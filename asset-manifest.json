@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/card-generator-form/static/css/main.cf06bceb.css",
+    "main.js": "/card-generator-form/static/js/main.d2941490.js",
+    "static/js/787.ab48f006.chunk.js": "/card-generator-form/static/js/787.ab48f006.chunk.js",
+    "index.html": "/card-generator-form/index.html",
+    "main.cf06bceb.css.map": "/card-generator-form/static/css/main.cf06bceb.css.map",
+    "main.d2941490.js.map": "/card-generator-form/static/js/main.d2941490.js.map",
+    "787.ab48f006.chunk.js.map": "/card-generator-form/static/js/787.ab48f006.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf06bceb.css",
+    "static/js/main.d2941490.js"
+  ]
+}
